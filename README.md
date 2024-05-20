@@ -4,10 +4,11 @@
 I've just completed a web development project, a banking application called Bankist, which I built using JavaScript, HTML, and CSS. This project has been an incredible learning experience, and credits to Jonas Schmedtmann for the excellent tutorials that guided me through this project.
 
 
-
-
-
 ## 📸Screenshots
+![Screenshot_2](https://github.com/SomuSingh11/BANKIST-Application/assets/170082343/70add09a-999f-4def-b2e2-fadae3be24bf)
+![Screenshot_1](https://github.com/SomuSingh11/BANKIST-Application/assets/170082343/b4c09a39-73ba-47ba-87f4-931026775ab2)
+
+
 ## 🛠️Features
 
 - **Responsive UI:** Built using HTML and vanilla CSS to ensure a visually appealing and user-friendly interface.
@@ -44,7 +45,7 @@ Note : The data used for different account and transactions are hardcoded using 
 ## ▶️Demo
 
 Demo : 
-
+Website : https://somusingh11.github.io/BANKIST-Application/
 
 ## 🧑‍💻Tech Stack
 
